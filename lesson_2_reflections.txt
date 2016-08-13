@@ -19,4 +19,15 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches would be helpful when you want to add a new feature that will not necesarily be in the main versions
 of your program but you want to test it out. If you want to add an easy mode to a game perhaps
-or maybe add a different type of asteroid. 
+or maybe add a different type of asteroid.
+
+How do the diagrams help you visualize the branch structure?
+
+diagrams help because they make it easy to visualize the branch structure
+If you look closely, it's very easy to see the parent of each commit and 
+the places where new branches begin 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it merged the two branches together. the reason it is represted the way it is in the diagram is because 
+once you merge them, all commits created for the merged branch are now part of the new branch.
