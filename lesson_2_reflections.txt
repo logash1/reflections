@@ -14,3 +14,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can add changes to the staging area seperately. If you change one thing in one file
 and something else in another you add the first file to the staging area and only commit that
 one, then add the other and commit it seperately.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when you want to add a new feature that will not necesarily be in the main versions
+of your program but you want to test it out. If you want to add an easy mode to a game perhaps
+or maybe add a different type of asteroid. 
